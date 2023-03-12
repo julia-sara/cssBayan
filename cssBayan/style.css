@@ -33,16 +33,7 @@ body {
         max-width: 250px;}
 }
 
-/* .h1{
-    max-width: 500px;   
-    margin: 20px auto;
-    
-} */
-/* FAQ */
-/* .faq   {
-    max-width: 500px;
-    margin: 20px auto;
-} */
+
 .faq-item {
 border: 1px solid snow;
 }
@@ -54,8 +45,6 @@ border: 1px solid snow;
 }
 .faq-title:hover{
     background-color: snow;
-}
-.faq-title:after{
 
 }
 .faq-input{
@@ -67,14 +56,12 @@ border: 1px solid snow;
     position: absolute;
   
 }
-/* .faq-input:checked ~ .faq-title {
-    background-color: snow;
-} */
+
 .faq-input:checked ~ .faq-text {
     display: block;}
 
 .faq-text{
     display: none;
-    /* margin:  10px 10px; */
+  
 }
 
